@@ -1,0 +1,3 @@
+=> Install Mongoose:
+> npm i mongoose
+> npm i validator
